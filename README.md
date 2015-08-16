@@ -1,5 +1,5 @@
 # XLNetwork
-基于AFNetWorking框架深度封装，支持缓存，支持code检查。
+基于AFNetWorking框架深度封装，支持缓存，支持code检查，便于MVVM设计模式
 
 1.启动app时
   - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
